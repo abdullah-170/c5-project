@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">لعبة خمن</string>
+    <string name="false_botten">خطأ</string>
+    <string name="true_botten">صح</string>
+    <string name="Share_title">عنوان المشاركة</string>
+    <string name="Share_Question">شارك السؤال</string>
+    <string name="Question">السؤال</string>
+    <string name="The_correct_answer_is">الاجابة الصحيحة هي</string>
+    <string name="bake">الرجوع</string>
+    <string name="Share">نشر</string>
+    <string name="Change_lang_Text">تغيير اللغة</string>
+
+    <string-array name="QUESTIONS">
+        <item>  "العملة الرسمية لدولة الكويت هي الريال الكويتي؟"</item>
+        <item> "توبقال هي أعلى قمة جبلية في العالم العربي؟"</item>
+        <item> "الجزائر هي أكبر دولة عربية من حيث المساحة؟"</item>
+        <item>"الدار البيضاء هي عاصمة المغرب؟"</item>
+        <item>"كابول هى عاصمة افغانستان؟"</item>
+        <item>"اضخم الحيوانات اللافقرية هو القنديل؟" </item>
+        <item>"الدولة العربية التي يمر بها خط الاستواء هى السودان؟"</item>
+        <item>"القلب هو أكبر عضو في جسم الإنسان؟"</item>
+        <item> "أول مسجد في الإسلام هو المسجد النبوي؟"</item>
+        <item> "الخال الوحيد لأولاد عمتك هو والدك؟"</item>
+        <item>"اولى دول العالم انتاجا للموز هى الاكوادور؟"</item>
+        <item>"الأرجنتين عاصمتها باكو؟"</item>
+        <item>"عملة فيتنام هى دونج؟"</item>
+    </string-array>
+    <string-array name="ANSWERS_DETAILS">
+        <item>"العملة الرسمية لدولة الكويت هي الدينار الكويتي"</item>
+        <item>  "توبقال هي أعلى قمة جبلية في العالم العربي و تقع في المغرب"</item>
+        <item> "الجزائر هي أكبر دولة عربية و إفريقية من حيث المساحة"</item>
+        <item>  "الرباط هي عاصمة المغرب"</item>
+        <item> "كابول هى عاصمة افغانستان"</item>
+        <item>  "اضخم الحيوانات اللافقرية هو الحبار"</item>
+        <item> "الدولة العربية التي يمر بها خط الاستواء هى الصومال"</item>
+        <item> "الكبد هو أكبر عضو في جسم الإنسان"</item>
+        <item> "أول مسجد في الإسلام هو مسجد قباء"</item>
+        <item>  "الخال الوحيد لأولاد عمتك هو والدك"</item>
+        <item> "اولى دول العالم انتاجا للموز هى الاكوادور"</item>
+        <item> "الأرجنتين عاصمتها بونس إيرس"</item>
+        <item>  "عملة فيتنام هى دونج"</item>
+    </string-array>
+
+    <array name="language">
+        <item>العربية</item>
+        <item>English</item>
+    </array>
+
+
+</resources>
